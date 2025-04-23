@@ -24,6 +24,13 @@
       </section>
     </section>
     <section @click="handleCopy" class="index_commodity_title">
+      <div class="text-lg font-bold">
+        {{ detailData.goodsName }}
+      </div>
+      <div class="price-box  py-2 text-lg font-bold">
+        <span class="text-red-600">{{ detailData.sellingPrice }}</span>
+        <span class="line-through text-gray-400 ml-2 text-base">{{ detailData.listPrice }}</span>
+      </div>
       <div class="title ellipsis-two word-break" :data-clipboard-text="detailData.title">
         {{ detailData.title }}
       </div>
