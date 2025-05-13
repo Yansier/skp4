@@ -19,7 +19,7 @@
         {{ detailData.goodsName }}
       </div>
       <div class="price-box  py-2 text-lg font-bold">
-        <!-- <span class="text-red-600">{{ detailData.sellingPrice }}</span> -->
+        <!-- <span class="text-red-600">{{ detailData.sellingPrice }}</span> --> 
         <span class="text-red-600">88 $</span>
         <span class="line-through text-gray-400 ml-2 text-base">{{ detailData.listPrice }} $</span>
       </div>
