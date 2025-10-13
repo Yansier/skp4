@@ -55,7 +55,7 @@
         </el-card>
 
         <div class="add-section">
-            <el-button type="success" @click="addSection">增加一级条目</el-button>
+            <el-button type="success" @click="addSection">一级条目</el-button>
         </div>
     </div>
 </template>
@@ -64,7 +64,7 @@
 import { ref, onMounted } from 'vue'
 import { ElMessage } from 'element-plus'
 import { updateByKey, homePage } from '@/admin/api/index.js'
-// import {products} from '../../../../../public/js/products.js'
+import {products} from '../../../../../public/js/products.js'
 
 const formData = ref([])
 const loading = ref(false)
@@ -73,7 +73,8 @@ onMounted(async () => {
     loading.value = true
 
     homePage().then((res) => {
-        formData.value = JSON.parse(res.data)
+        // formData.value = JSON.parse(res.data)
+        formData.value = products
         loading.value = false
     })
 
