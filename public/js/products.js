@@ -23,6 +23,65 @@ export const products = [
     ]
   },
   {
+    "wrapper_title": "Top Movement Watches",
+    "item_list": [
+      {
+        "item_pic": "./img/678a006692c897_73459393.jpg",
+        "displayName": "Rolex \u269c\ufe0f",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Rolex",
+        "targetUrl": "/#/goodList/58792442",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      },
+      {
+        "item_pic": "./img/678a0066e10389_56776739.jpg",
+        "displayName": "Patek Philippe \ud83d\udc51",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Patek Philippe",
+        "targetUrl": "/#/goodList/58812024",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      },
+      {
+        "item_pic": "./img/678a00671fc152_58377411.jpg",
+        "displayName": "LONGINES \ud83e\udded",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Longines",
+        "targetUrl": "/#/goodList/58812080",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      },
+      {
+        "item_pic": "./img/678a006750b834_10908049.jpg",
+        "displayName": "CARTIER \ud83d\udc8e",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Cartier",
+        "targetUrl": "/#/goodList/58811952",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      },
+      {
+        "item_pic": "./img/678a006786f0d5_34008816.jpg",
+        "displayName": "BREITLING \u2694\ufe0f",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Breitling",
+        "targetUrl": "/#/goodList/58811827",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      },
+      {
+        "item_pic": "./img/678a0067bb3dd2_68184457.jpg",
+        "displayName": "BLANCPAIN \u23f1",
+        "displayName2nd": "",
+        "eventName": "Schedule",
+        "contentCategory": "Blancpain",
+        "targetUrl": "/#/goodList/58811966",
+        "arrow_svg": "./img/link-button-arrow.svg"
+      }
+    ]
+  },
+  {
     "wrapper_title": "Top quality bag",
     "item_list": [
       {
@@ -95,65 +154,7 @@ export const products = [
       }
     ]
   },
-  {
-    "wrapper_title": "Top Movement Watches",
-    "item_list": [
-      {
-        "item_pic": "./img/678a006692c897_73459393.jpg",
-        "displayName": "Rolex \u269c\ufe0f",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Rolex",
-        "targetUrl": "/#/goodList/58792442",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      },
-      {
-        "item_pic": "./img/678a0066e10389_56776739.jpg",
-        "displayName": "Patek Philippe \ud83d\udc51",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Patek Philippe",
-        "targetUrl": "/#/goodList/58812024",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      },
-      {
-        "item_pic": "./img/678a00671fc152_58377411.jpg",
-        "displayName": "LONGINES \ud83e\udded",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Longines",
-        "targetUrl": "/#/goodList/58812080",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      },
-      {
-        "item_pic": "./img/678a006750b834_10908049.jpg",
-        "displayName": "CARTIER \ud83d\udc8e",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Cartier",
-        "targetUrl": "/#/goodList/58811952",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      },
-      {
-        "item_pic": "./img/678a006786f0d5_34008816.jpg",
-        "displayName": "BREITLING \u2694\ufe0f",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Breitling",
-        "targetUrl": "/#/goodList/58811827",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      },
-      {
-        "item_pic": "./img/678a0067bb3dd2_68184457.jpg",
-        "displayName": "BLANCPAIN \u23f1",
-        "displayName2nd": "",
-        "eventName": "Schedule",
-        "contentCategory": "Blancpain",
-        "targetUrl": "/#/goodList/58811966",
-        "arrow_svg": "./img/link-button-arrow.svg"
-      }
-    ]
-  },
+
   {
     "wrapper_title": "A wide range of clothing styles",
     "item_list": [
