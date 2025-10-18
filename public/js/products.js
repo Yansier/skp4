@@ -17,7 +17,7 @@ export const products = [
         "displayName2nd": "Start a conversation",
         "eventName": "Schedule",
         "contentCategory": "Start a conversation",
-        "targetUrl": "https://api.whatsapp.com/send?phone=85298417675&text=Contact+me+-+start+a+conversation+%E2%86%91+%E2%86%91+%E2%86%91",
+        "targetUrl": "https://api.whatsapp.com/send?phone=85270777288&text=Contact+me+-+start+a+conversation+%E2%86%91+%E2%86%91+%E2%86%91",
         "arrow_svg": "./img/link-button-arrow.svg"
       }
     ]
